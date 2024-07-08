@@ -3,7 +3,7 @@
 ## Project: CCR Dashboard
 
 ### Introduction
-This documentation outlines the frontend setup for the TMMIN CCR (Toyota Manufacturing Indonesia) dashboard project, utilizing Vue.js Version 2.
+This documentation outlines the frontend setup Vue.js Version 2.
 
 ### Usage
 
